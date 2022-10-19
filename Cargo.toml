@@ -14,7 +14,7 @@ readme = "README.md"
 [dependencies]
 anyhow = "1.0.52"
 byteorder = "1.4.3"
-clap = { version = "3.0.0", default-features = false, features = [
+clap = { version = "4.0.17", default-features = false, features = [
   "std",
   "cargo",
   "wrap_help",
